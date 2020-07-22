@@ -41,7 +41,7 @@
                             <div class="col-12">
                                 <div class="page-title-box">
                                     
-                                    <h4 class="page-title">Hospital Management Information System Dashboard</h4>
+                                    <h4 class="page-title">Kangundo Hospital Management Information System Dashboard</h4>
                                 </div>
                             </div>
                         </div>     
