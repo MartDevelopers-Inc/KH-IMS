@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- Page Title -->
-    <title>Hospital Information Management System</title>
+    <title> Kangundo Hospital Information Management System</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/logo/favicon.png" type="image/x-icon">
@@ -53,9 +53,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <h4>Caring for better life</h4>
+                    <h4>Kangundo Hospital - Caring for better life</h4>
                     <h1>Leading the way in medical excellence</h1>
-                    <p>Hospital Information System  is awarded as one of the Top Hospital Management System, which can integrate all the HIS systems, processes and machines into an intelligent information system to derive operational efficiency and assist hospitals in decision making process through MIS and Analytics.</p>
                 </div>
             </div>
         </div>
