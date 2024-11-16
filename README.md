@@ -5,6 +5,14 @@
 ## About KH-IMS
 KH-IMS Is an Open Source Health Information Management System, which is a blend of [OHCMS](https://github.com/MartMbithi/OHCMS) and [HMIS](https://github.com/MartMbithi/HMIS).
 
+## Login Credentials
+### Admin
+Email: sysadmin@hmis.org
+Password: demo
+
+### Doctor
+Email: jamesdoe@hmis.org
+Password: demo
 ## KH-IMS
 ```
 1.InPatient/OutPatient Management
