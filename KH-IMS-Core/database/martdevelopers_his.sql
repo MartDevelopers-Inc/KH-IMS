@@ -104,7 +104,7 @@ CREATE TABLE `his_docs` (
 --
 
 INSERT INTO `his_docs` (`doc_id`, `doc_fname`, `doc_lname`, `doc_email`, `doc_pwd`, `doc_dept`, `doc_number`, `doc_dpic`) VALUES
-(2, 'Alex', 'Musyoki', 'docalex@hmis.org', 'a69681bcf334ae130217fea4505fd3c994f5683f', 'Surgery | Theatre', 'N8TI0', 'Orion-1.jpg');
+(2, 'James', 'Doe', 'jamesdoe@hmis.org', 'a69681bcf334ae130217fea4505fd3c994f5683f', 'Surgery | Theatre', 'N8TI0', 'Orion-1.jpg');
 
 -- --------------------------------------------------------
 
