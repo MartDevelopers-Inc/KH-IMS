@@ -65,7 +65,7 @@ CREATE TABLE `his_admin` (
 --
 
 INSERT INTO `his_admin` (`ad_id`, `ad_fname`, `ad_lname`, `ad_email`, `ad_pwd`, `ad_dpic`) VALUES
-(1, 'System', 'Administrator', 'sysadmin@hmis.org', '90b9aa7e25f80cf4f64e990b78a9fc5ebd6cecad', 'doctor_admin_icon_4-512.png');
+(1, 'System', 'Administrator', 'sysadmin@hmis.org', 'a69681bcf334ae130217fea4505fd3c994f5683f', 'doctor_admin_icon_4-512.png');
 
 -- --------------------------------------------------------
 
